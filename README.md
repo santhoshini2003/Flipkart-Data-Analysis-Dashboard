@@ -1,34 +1,44 @@
 # Flipkart Sales Analysis Dashboard – Power BI
 
 ## Project Overview
-This project presents an interactive data analysis dashboard developed using Microsoft Power BI. It is designed to visualize and explore Flipkart-related data through dashboard reports.
+This project is an interactive data analysis dashboard developed using Microsoft Power BI. It demonstrates how data visualization can help explore and understand Flipkart-related data through interactive reports.
 
 ## Tools & Technologies
 - Microsoft Power BI
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Data Visualization
 
 ## Project Files
-- **PBIX File:** Power BI dashboard project file.
-- **Dashboard Screenshots:** Images showing the report pages and visualizations.
+| File | Description |
+|---|---|
+| `flipkart project power BI.pbix` | Power BI dashboard project file |
+| `Screenshot 2026-10-27 132926.png` | Dashboard screenshot – Page 1 |
+| `Screenshot 2026-10-27 132956.png` | Dashboard screenshot – Page 2 |
+| `Screenshot 2026-10-27 133021.png` | Dashboard screenshot – Page 3 |
 
 ## Project Highlights
 - Interactive Power BI dashboard
-- Data visualization and reporting
-- Easy-to-understand dashboard layout
-
-## Dataset
-The original source dataset is currently unavailable and is not included in this repository.
+- Visual representation of Flipkart-related data
+- Dashboard reporting and data exploration
+- Clear and easy-to-understand visualizations
 
 ## Dashboard Preview
-Add your dashboard screenshots below:
 
-![Dashboard Screenshot 1](screenshot1.png)
+### Dashboard – Page 1
+![Dashboard Page 1](Screenshot%202026-10-27%20132926.png)
 
-![Dashboard Screenshot 2](screenshot2.png)
+### Dashboard – Page 2
+![Dashboard Page 2](Screenshot%202026-10-27%20132956.png)
 
-![Dashboard Screenshot 3](screenshot3.png)
+### Dashboard – Page 3
+![Dashboard Page 3](Screenshot%202026-10-27%20133021.png)
+
+## Dataset
+The original source dataset is currently unavailable and is not included in this repository. The Power BI project file is provided for dashboard reference.
 
 ## Author
-Santhoshini R.
+**Santhoshini R.**
+
+M.Sc. Computer Science Graduate  
+Aspiring Data Analyst
